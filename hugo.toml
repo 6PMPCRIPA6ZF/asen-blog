@@ -1,0 +1,20 @@
+baseURL = 'https://6pmpcripa6zf.github.io/asen-blog/'
+languageCode = 'zh-cn'
+title = 'asen'
+theme = 'github-style'
+enableRobotsTXT = true
+
+[params]
+  author = 'asen'
+  description = 'demo'
+  github = '6PMPCRIPA6ZF'
+  url = 'https://6pmpcripa6zf.github.io/asen-blog/'
+  keywords = 'asen, demo'
+  rss = false
+  lastmod = false
+  favicon = '/images/github-mark.png'
+  avatar = '/images/asen-avatar.svg'
+  headerIcon = '/images/github-mark-white.png'
+  userStatusEmoji = '😀'
+  enableGitalk = false
+  enableSearch = false
